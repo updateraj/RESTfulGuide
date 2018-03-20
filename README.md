@@ -42,6 +42,9 @@ back-end server, front-end client module with system sercurity in mind.
 - http://www.postgresqltutorial.com/postgresql-json/
 ### 5.4 MongoDB
 - https://github.com/samus/mongodb-csharp
+### 5.5 SQL Bulk Upload
+https://github.com/olegil/SqlBulkTools
+
 ## 6.Security
 - https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
 
