@@ -6,13 +6,13 @@
   - CRUD Gallery(Name) 
     - /Gallery/Create --- given String:Name
     - /Gallery/Read   --- receive String:Name[],int id[]
-    - /Gallery/Update --- given int:id
+    - /Gallery/Update --- given int:id, String:Name  
     - /Gallery/Delete --- given int:id
     
   - CRUD Person Image
   - CRUD UserAccount
   - Image Search
-   - /HistoricSearch
+   - /HistoricSearch - StartDate,EndDate,Base64ImgStr,Threshold
 
 -Figure Out Server to DB CRUB approach - EntityFrameWork
 -Figure Out middleware routine incoming request-processing-another app server
