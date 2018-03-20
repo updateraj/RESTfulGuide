@@ -31,10 +31,14 @@ back-end server, front-end client module with system sercurity in mind.
 - https://github.com/bonesoul/uhttpsharp/blob/master/README.md
   
 ## 4.Client
+- https://github.com/EasyHttp/EasyHttp
+- https://github.com/j6mes/httplib
 
 ## 5.Security
 - https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
 
 ## 6.Others
 - https://github.com/JornWildt/Ramone
+- https://github.com/Vodurden/Http-Multipart-Data-Parser
+
 
