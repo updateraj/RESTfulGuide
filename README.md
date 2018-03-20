@@ -27,7 +27,8 @@ back-end server, front-end client module with system sercurity in mind.
 - https://www.cheatography.com/kstep/cheat-sheets/http-status-codes/
 
 ## 3.Server
-- https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
+- https://github.com/jchristn/WatsonWebserver/blob/master/README.md
+- https://github.com/bonesoul/uhttpsharp/blob/master/README.md
   
 ## 4.Client
 
