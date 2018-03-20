@@ -2,7 +2,7 @@
 ## Server
 -Establish all available commands and sub-routines for client
 
- Sample Biz logic
+ Sample Biz logic  (Client-->Server)  {Can you do post with rest?}
   - CRUD Gallery(Name) 
     - /Gallery/Create --- given String:Name
     - /Gallery/Read   --- receive String:Name[],int id[]
@@ -14,5 +14,15 @@
   - Image Search
    - /HistoricSearch - StartDate,EndDate,Base64ImgStr,Threshold
 
--Figure Out Server to DB CRUB approach - EntityFrameWork
--Figure Out middleware routine incoming request-processing-another app server
+-Figure Out Server to DB CRUB approach - EntityFrameWork  (Server-->DB)
+-Figure Out middleware routine incoming request-processing-another app server  (Server-->App, Server-->DB)
+
+
+## System Components
+-[Server]
+-[DB]
+-[Client(s)]
+-[AppEngine]
+
+Client-->Server[Server-->DB,Server-->AppEngine]Server-->Client
+
