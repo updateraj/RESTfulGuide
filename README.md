@@ -34,15 +34,17 @@ back-end server, front-end client module with system sercurity in mind.
 
 ## 5.Database
  - SQL use as default
-### 5.1 JSON & & SQL ref:
+### 5.1 Entityframework
+ - http://www.entityframeworktutorial.net
+### 5.2 JSON & & SQL ref:
 - https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
-### 5.2. JSON & & postgresql ref:
+### 5.3. JSON & & postgresql ref:
 - http://www.postgresqltutorial.com/postgresql-json/
-### 5.3 JSON & & MySQL ref:
+### 5.4 JSON & & MySQL ref:
 - http://www.postgresqltutorial.com/postgresql-json/
-### 5.4 MongoDB
+### 5.5 MongoDB
 - https://github.com/samus/mongodb-csharp
-### 5.5 SQL Bulk Upload
+### 5.6 SQL Bulk Upload
 - https://github.com/olegil/SqlBulkTools
 
 ## 6.Security
