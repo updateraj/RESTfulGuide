@@ -16,17 +16,21 @@ back-end server, front-end client module with system sercurity in mind.
 ### 2.3 CRUD 
 - https://www.codecademy.com/articles/what-is-crud
 
+
 ### 2.4 HTTP Status Codes
 - https://www.cheatography.com/kstep/cheat-sheets/http-status-codes/
+
 
 ## 3.Server
 - https://github.com/jchristn/WatsonWebserver/blob/master/README.md
 - https://github.com/bonesoul/uhttpsharp/blob/master/README.md
   
+  
 ## 4.Client
 - https://github.com/EasyHttp/EasyHttp
 - https://github.com/j6mes/httplib
 - https://github.com/sendgrid/csharp-http-client/blob/master/README.md
+
 
 ## 5.Database
  - 
@@ -37,11 +41,14 @@ back-end server, front-end client module with system sercurity in mind.
 #### 5.3 JSON & & MySQL ref:
 - http://www.postgresqltutorial.com/postgresql-json/
 
+
 ## 6.Security
 - https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
 
+
 ## 7.Testing
 https://github.com/bchavez/Bogus
+
 
 ## 6.Others
 - https://github.com/JornWildt/Ramone
