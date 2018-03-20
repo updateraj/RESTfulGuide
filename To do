@@ -1,0 +1,5 @@
+
+## Server
+-Establish all available commands and sub-routines
+-Figure Out Server to DB CRUB approach - EntityFrameWork
+-Figure Out middleware routine incoming request-processing-another app server
