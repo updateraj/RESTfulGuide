@@ -33,7 +33,7 @@ back-end server, front-end client module with system sercurity in mind.
 
 
 ## 5.Database
- - 
+ - SQL use as default
 ### 5.1 JSON & & SQL ref:
 - https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
 ### 5.2. JSON & & postgresql ref:
@@ -43,7 +43,7 @@ back-end server, front-end client module with system sercurity in mind.
 ### 5.4 MongoDB
 - https://github.com/samus/mongodb-csharp
 ### 5.5 SQL Bulk Upload
-https://github.com/olegil/SqlBulkTools
+- https://github.com/olegil/SqlBulkTools
 
 ## 6.Security
 - https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
