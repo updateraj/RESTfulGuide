@@ -13,10 +13,16 @@ Reference: https://stackoverflow.com/questions/671118/what-exactly-is-restful-pr
 Reference:
 - https://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf
 - https://github.com/synthetos/g2/wiki/JSON-Cheat-Sheet
+-
 #### 2.2.1 JSON & & SQL ref:
 - https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
+#### 2.2.2 JSON & & postgresql ref:
+- http://www.postgresqltutorial.com/postgresql-json/
+#### 2.2.3 JSON & & MySQL ref:
+- http://www.postgresqltutorial.com/postgresql-json/
 
-
+### 2.3 CRUD 
+- https://www.codecademy.com/articles/what-is-crud
 
 ## 3.Server
 Reference: https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
