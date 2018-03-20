@@ -1,5 +1,5 @@
 # RESTfulGuide
-Resources to get started with REST API for a project using C#as base language.
+Resources to get started with REST API for a project using C# as the base language. Json for message packets.
 
 ## 1.Objective
 The aim of this repository is to quickly started with end to end development using available resources, focusing on the  
@@ -50,11 +50,11 @@ back-end server, front-end client module with system sercurity in mind.
 
 
 ## 7.Testing
-https://github.com/bchavez/Bogus
-https://github.com/Seddryck/NBi
+- https://github.com/bchavez/Bogus
+- https://github.com/Seddryck/NBi
 
 
-## 6.Others
+## 8.Others
 - https://github.com/JornWildt/Ramone
 - https://github.com/Vodurden/Http-Multipart-Data-Parser
 
