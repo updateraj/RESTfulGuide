@@ -36,6 +36,7 @@ back-end server, front-end client module with system sercurity in mind.
  - SQL use as default
 ### 5.1 Entityframework
  - http://www.entityframeworktutorial.net
+ - https://docs.microsoft.com/en-us/aspnet/entity-framework
 ### 5.2 JSON & & SQL ref:
 - https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
 ### 5.3. JSON & & postgresql ref:
