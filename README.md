@@ -12,7 +12,7 @@ back-end server, front-end client module with system sercurity in mind.
 ### 2.2 JSON 
 - https://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf
 - https://github.com/synthetos/g2/wiki/JSON-Cheat-Sheet
--
+
 #### 2.2.1 JSON & & SQL ref:
 - https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
 #### 2.2.2 JSON & & postgresql ref:
