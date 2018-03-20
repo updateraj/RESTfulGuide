@@ -13,13 +13,6 @@ back-end server, front-end client module with system sercurity in mind.
 - https://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf
 - https://github.com/synthetos/g2/wiki/JSON-Cheat-Sheet
 
-#### 2.2.1 JSON & & SQL ref:
-- https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
-#### 2.2.2 JSON & & postgresql ref:
-- http://www.postgresqltutorial.com/postgresql-json/
-#### 2.2.3 JSON & & MySQL ref:
-- http://www.postgresqltutorial.com/postgresql-json/
-
 ### 2.3 CRUD 
 - https://www.codecademy.com/articles/what-is-crud
 
@@ -33,9 +26,22 @@ back-end server, front-end client module with system sercurity in mind.
 ## 4.Client
 - https://github.com/EasyHttp/EasyHttp
 - https://github.com/j6mes/httplib
+- https://github.com/sendgrid/csharp-http-client/blob/master/README.md
 
-## 5.Security
+## 5.Database
+ - 
+### 5.1 JSON & & SQL ref:
+- https://blog.bertwagner.com/the-ultimate-sql-server-json-cheat-sheet-2fbb98049a37
+#### 5.2. JSON & & postgresql ref:
+- http://www.postgresqltutorial.com/postgresql-json/
+#### 5.3 JSON & & MySQL ref:
+- http://www.postgresqltutorial.com/postgresql-json/
+
+## 6.Security
 - https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
+
+## 7.Testing
+https://github.com/bchavez/Bogus
 
 ## 6.Others
 - https://github.com/JornWildt/Ramone
