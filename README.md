@@ -8,6 +8,7 @@ back-end server, front-end client module with system sercurity in mind.
 ## 2.Introduction
 ### 2.1 REST explain
 - https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming
+- https://www.codeproject.com/Articles/1213473/Into-the-Core-of-REST
 
 ### 2.2 JSON 
 - https://spacetelescope.github.io/understanding-json-schema/UnderstandingJSONSchema.pdf
@@ -27,6 +28,7 @@ back-end server, front-end client module with system sercurity in mind.
   
   
 ## 4.Client
+- https://www.codeproject.com/Articles/331350/A-Generic-REST-Client-Library
 - https://github.com/EasyHttp/EasyHttp
 - https://github.com/j6mes/httplib
 - https://github.com/sendgrid/csharp-http-client/blob/master/README.md
@@ -55,6 +57,10 @@ back-end server, front-end client module with system sercurity in mind.
 ## 7.Testing
 - https://github.com/bchavez/Bogus
 - https://github.com/Seddryck/NBi
+
+## 8.Framework
+
+- https://www.codeproject.com/Articles/826383/REST-A-Simple-REST-framework
 
 
 ## 8.Others
